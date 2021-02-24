@@ -39,7 +39,8 @@ module.exports = {
             [
                 {
                     "name": "github",
-                    "url": "https://github.com/alexellis"
+                    "url": "https://github.com/alexellis",
+                    "Edit test"
                 },
                 {
                     "name": "twitter",
